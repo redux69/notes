@@ -1,2 +1,2 @@
 # notes
-a repository for notes made by me
+a repository for a notes applicationmade by me
